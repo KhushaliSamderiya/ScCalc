@@ -1,5 +1,6 @@
 # ScCalc
 
+
 ScCalc is a cyberpunk‑styled scientific calculator powered by **React 18**, **Material&nbsp;UI**, and **Math.js**. Open `index.html` in your browser to try it out.
 
 ### Features
@@ -12,3 +13,8 @@ ScCalc is a cyberpunk‑styled scientific calculator powered by **React 18**, **
 - Constants `pi` and `e`
 - Factorial `!`
 - Parentheses for grouping
+=======
+A simple web-based scientific calculator built with React and Math.js. Open `index.html` in your browser to use it.
+
+Features include basic arithmetic, trigonometric functions, logarithms, square root, constants `pi` and `e`, parentheses, and exponentiation.
+
