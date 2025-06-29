@@ -1,0 +1,2 @@
+# ScCalc
+Scientefic Calculator App
